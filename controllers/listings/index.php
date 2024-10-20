@@ -1,2 +1,2 @@
 <?php
-echo 'hello listings';
+    loadView('listings/index');
